@@ -1,6 +1,6 @@
 ---
 title: "Survey"
-slug: Lesson Title-survey
+slug: Bash Shell: Writing Basic Scripts-survey
 layout: page
 ---
 
